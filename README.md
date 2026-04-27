@@ -22,3 +22,20 @@ Resources covering **Saxon Math Course 3** (Lessons 1-120). Use them in order:
 - Probability, statistics, sequences
 - Compound interest, growth & decay
 - Unit conversions & measurement
+
+## Sixth Grade English
+
+Resources covering **English grammar — Unit 7: Clauses** (Lessons 7.1-7.7).
+
+1. **[Unit 7 Test](sixth-grade/english/1-UNIT7-TEST.md)** - 90-question comprehensive test with answer key covering all clause types
+
+### Topics Covered
+
+- Independent and dependent clauses
+- Sentence structure (simple, compound, complex, compound-complex)
+- Adjective clauses (restrictive vs. nonrestrictive)
+- Adverb clauses
+- Noun clauses (subject, direct object, predicate nominative)
+- Diagramming adjective and adverb clauses
+- Misplaced and dangling modifiers
+- Comma rules with dependent clauses
